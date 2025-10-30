@@ -1,26 +1,12 @@
 {
   "version": "7",
-  "dialect": "mysql",
+  "dialect": "postgresql",
   "entries": [
     {
       "idx": 0,
-      "version": "5",
-      "when": 1761841615374,
-      "tag": "0000_unknown_catseye",
-      "breakpoints": true
-    },
-    {
-      "idx": 1,
-      "version": "5",
-      "when": 1761841656982,
-      "tag": "0001_safe_sleeper",
-      "breakpoints": true
-    },
-    {
-      "idx": 2,
-      "version": "5",
-      "when": 1761842869363,
-      "tag": "0002_sudden_avengers",
+      "version": "7",
+      "when": 1761854355320,
+      "tag": "0000_charming_firedrake",
       "breakpoints": true
     }
   ]
